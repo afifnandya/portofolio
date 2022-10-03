@@ -1,5 +1,5 @@
 # NuxtJs Tailwind Blog
-
+Afif Blog
 This is a nuxtjs, Tailwind CSS blogging template. Its supported Markdown for blog
 ![Drag Racing](thumbnail.png)
 
